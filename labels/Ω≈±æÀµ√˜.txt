@@ -1,0 +1,19 @@
+
+1、将待截视频放入 ./videos 文件夹
+
+2、运行脚本
+
+3、输入本次要截取的标签类别，比如 forhand/backhand/serve/volley/move 等
+
+4、按如下提示对视频进行播放控制：
+
+	W/w: Play, 
+	S/s: Stay, 
+	A/a: Prev frame, 
+	D/d: Next frame, 
+	E/e: Fast, 
+	Q/q: Slow, 
+	Esc: Exit, (退出当前视频并自动进入下一视频，已无视频则退出程序)
+	  [: Start selection, 
+	  ]: End selection ( and save frames )
+
